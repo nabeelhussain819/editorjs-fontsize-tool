@@ -40,4 +40,4 @@ paragraph: {
 
 ```
 ## DEMO
-![Demo Video](https://github.com/nabeelhussain819/editorjs-fontsize-tool/blob/main/assets/demo.mp4)
+![Demo Video](https://raw.githubusercontent.com/nabeelhussain819/editorjs-fontsize-tool/main/assets/demo.mp4)
