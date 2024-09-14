@@ -42,4 +42,4 @@ paragraph: {
 
 
 ## DEMO
-![Demo Video](https://github.com/nabeelhussain819/editorjs-fontsize-tool/raw/main/assets/demo.mp4)
+![Demo GIF](https://github.com/nabeelhussain819/editorjs-fontsize-tool/raw/main/assets/download.gif)
