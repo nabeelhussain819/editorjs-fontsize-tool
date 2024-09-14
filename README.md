@@ -39,5 +39,7 @@ paragraph: {
 },
 
 ```
+
+
 ## DEMO
-![Demo Video](https://drive.google.com/file/d/1YOGE8hFUA_NxH63SylTfG_GAiQv0Nv1Q/view?usp=sharing)
+![Demo Video](https://github.com/nabeelhussain819/editorjs-fontsize-tool/raw/main/assets/demo.mp4)
